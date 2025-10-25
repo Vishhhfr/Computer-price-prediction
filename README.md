@@ -1,4 +1,4 @@
-• Machine learning regression model for accurate computer price prediction
+• Machine learning regression model for accurate computer price prediction\n
 • Analyzes comprehensive hardware specs: RAM, GPU, processor, brand, storage
 • Extensive data preprocessing and feature engineering with multiple algorithms
 • Trained on 80,000+ computer configurations from various manufacturers
